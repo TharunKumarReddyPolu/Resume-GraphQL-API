@@ -89,7 +89,7 @@ const TestimonialsType = new GraphQLObjectType({
 
 
 const ResumeType = new GraphQLObjectType({
-  name: 'Tharun\'s Resume',
+  name: 'Tharun Resume',
   fields: {
     name: { type: GraphQLString },
     email: { type: GraphQLString },
